@@ -5,6 +5,7 @@ Introduction
 <br>
 The project focuses on Loan Approval Prediction, where machine learning techniques are used to analyze historical loan data and predict whether an applicant will be approved for a loan.
 <br>
+
 Project Overview
 
 <br>
