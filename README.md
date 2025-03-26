@@ -71,11 +71,4 @@ Analyzing loan approval trends across different categories
 <br>
 ✔ Outliers Detected: Some applicants have unusually high loan amounts.
 <br>
-📌 Next Steps
 
-<br>
-Implement predictive modeling to automate loan approvals.
-<br>
-Use machine learning algorithms to classify loan approval outcomes.
-<br>
-Explore feature engineering to improve prediction accuracy.
